@@ -1,1 +1,1 @@
-web: java -jar target/bot.jar
+web: java -jar target/bot-1.0.jar
