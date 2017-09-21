@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package main.java.fr.ginguene.onepoint.bot;
+package fr.ginguene.onepoint.bot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
